@@ -163,11 +163,11 @@ body {
     background-position: calc(100% - 37px) bottom;
   }
   &-man {
-    background-image: url(/imd/man.png);
+    background-image: url(../imd/man.png);
   }
 
   &-woman {
-    background-image: url(/imd/woman.png);
+    background-image: url(../imd/woman.png);
   }
   &-title {
     font-size: 24px;
@@ -199,10 +199,10 @@ body {
       background-repeat: no-repeat;
     }
     &:before {
-      background-image: url(/imd/item-top.svg);
+      background-image: url(../imd/item-top.svg);
     }
     &:after {
-      background-image: url(/imd/item-bottom.svg);
+      background-image: url(../imd/item-bottom.svg);
     }
   }
 
@@ -249,7 +249,7 @@ body {
 }
 
 .laravel-icon_vk {
-  background: url(/imd/vk.svg) no-repeat left center;
+  background: url(../imd/vk.svg) no-repeat left center;
   background-size: 16px;
   display: inline-block;
   vertical-align: bottom;
@@ -257,7 +257,7 @@ body {
 }
 
 .laravel-icon_fb {
-  background: url(/imd/fb.svg) no-repeat left center;
+  background: url(../imd/fb.svg) no-repeat left center;
   background-size: 16px;
   display: inline-block;
   vertical-align: bottom;
@@ -265,7 +265,7 @@ body {
 }
 
 .laravel-icon_inst {
-  background: url(/imd/inst.svg) no-repeat left center;
+  background: url(../imd/inst.svg) no-repeat left center;
   background-size: 16px;
   display: inline-block;
   vertical-align: bottom;
